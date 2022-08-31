@@ -21,7 +21,7 @@ class AccountViewModel : ViewModel() {
                         "56,000.00","47,599.00"),
                     MoneyTop("XXXX-XXXX-5533","Main",
                         "58,000.00","47,599.00"),
-                    MoneyTop("XXXX-XXXX-5533","Main",
+                    MoneyTop("XXXX-XXXX-553ss3","Main",
                         "58,000.00","47,599.00"),
 
 
