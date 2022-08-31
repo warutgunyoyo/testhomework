@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Account</string>
+    <string name="title_notifications">Services</string>
+    <string name="title_setting">Setting</string>
+    <string name="scan_qr_title">Scan</string>
+    <string name="deposit_title">Deposit</string>
+    <string name="current_balance">Current Balance (THB)</string>
+    <string name="available_balance">Available balance (THB)</string>
+    <string name="transfer_text">Transfer</string>
+    <string name="transaction_title">Transactions</string>
+    <string name="request_title">Request Statement</string>
+
+
+
+
+</resources>
